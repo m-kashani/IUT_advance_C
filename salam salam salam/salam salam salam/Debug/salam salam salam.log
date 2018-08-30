@@ -1,0 +1,11 @@
+﻿Build started 3/22/2015 5:28:26 AM.
+     1>Project "C:\Users\mahkapo\Desktop\tamrin ba visual studio\salam salam salam\salam salam salam\salam salam salam.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SalamSalamSalam.cpp
+         SalamSalamSalam.cpp
+     1>c:\users\mahkapo\desktop\tamrin ba visual studio\salam salam salam\salam salam salam\salamsalamsalam.cpp(5): error C3867: 'std::basic_istream<char,std::char_traits<char>>::get': function call missing argument list; use '&std::basic_istream<char,std::char_traits<char>>::get' to create a pointer to member
+     1>Done Building Project "C:\Users\mahkapo\Desktop\tamrin ba visual studio\salam salam salam\salam salam salam\salam salam salam.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.49
