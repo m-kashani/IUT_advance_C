@@ -15,7 +15,7 @@ int main(){
 		cout << "adad aval ast\n";
 	else
 		cout << "adad aval Nist\n";
-	system("pause");
+	//system("pause");
 	return 0;
 }
 //1394/01/04 at 8:31 AM.

@@ -8,11 +8,11 @@ long recursive_tavan(int a,int b){
 }
 
 int main(){
-	int a, b,c;
-	cout << "do adad vared konid: \n";
+	int a, b, c;
+	cout << "2 adad vared konid: \n";
 	cin >> a >> b;
 	c = recursive_tavan(a, b);
-	cout << a << "^" << b << "= " << c << endl;
+	cout << a << "^" << b << " = " << c << endl;
 	system("pause");
 	return 0;
 }

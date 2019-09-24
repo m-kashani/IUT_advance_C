@@ -1,5 +1,6 @@
 //shomarande=2:(1):sqrt(n)+1 adad%shomarande==0 ==>exit(nist) //return 0;
 #include <iostream>
+#include <math.h> //-> 
 using namespace std;
 int main(){
 	int shomarande = 2, adad;
@@ -25,6 +26,6 @@ int main(){
 		}
 	}
 	cout << "adad aval hast\n";
-	system("pause");
+	//system("pause");
 	return 0;
 }

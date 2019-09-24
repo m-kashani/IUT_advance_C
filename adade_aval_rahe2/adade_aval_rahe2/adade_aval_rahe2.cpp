@@ -1,6 +1,6 @@
 //shomarande = 2:(1):sqrt(add)+1 add%shomarande tedadbakhshpaziri++==>if=0(adad aval)
-#include<iostream>
-#include<math.h>
+#include <iostream>
+#include <math.h>
 using namespace std;
 int main(){
 	int shomarande = 2, tedad_bakhshpaziri = 0, adad;
@@ -27,12 +27,12 @@ int main(){
 			shomarande++;
 		}
 		if (tedad_bakhshpaziri == 0){
-			cout << "adad aval ast\n";
+			cout << "This is a prime number \n";
 		}
 		else{
-			cout << "adad aval Nist\n";
+			cout << "This is not a prime number \n";
 		}
 	}
-system("pause");
+//system("pause");
 return 0;
 }
